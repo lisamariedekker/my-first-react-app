@@ -13,7 +13,7 @@ class App extends Component {
         </header>
 
         <main>
-          <Title />
+          <Title content="Some Simple Title" />
         </main>
       </div>
     );
